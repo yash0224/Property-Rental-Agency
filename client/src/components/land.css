@@ -1,0 +1,218 @@
+.button-9 {
+    appearance: button;
+   
+    backface-visibility: hidden;
+    background-color: #383333;
+    border-radius: 6px;
+    border-width: 0;
+    box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset,rgba(50, 50, 93, .1) 0 2px 5px 0,rgba(0, 0, 0, .07) 0 1px 1px 0;
+    box-sizing: border-box;
+    color: white; 
+    cursor: pointer;
+    font-family: -apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Ubuntu,sans-serif;
+    font-size: 100%;
+    height: 44px;
+    line-height: 1.15;
+    margin: 12px 0 0;
+    outline: none;
+    overflow: hidden;
+    padding: 0 25px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    transform: translateZ(0);
+    transition: all .2s,box-shadow .08s ease-in;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 15%;
+  }
+
+  .input{
+    border-radius: 5px;
+    
+  }
+  
+  .button-9:disabled {
+    cursor: default;
+  }
+  
+  .button-9:focus {
+    box-shadow: rgba(50, 50, 93, .1) 0 0 0 1px inset, rgba(50, 50, 93, .2) 0 6px 15px 0, rgba(0, 0, 0, .1) 0 2px 2px 0, rgba(13, 13, 13, 0.3) 0 0 0 4px;
+
+  }
+   /* button{
+    margin: 25px 0 0 0;
+    width: 12%;
+    height: 50px;
+    color: #000;
+    font-size: 18px;
+    font-weight: 600;
+    background: #925b1d;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 25px;
+    /* box-shadow: 2px 2px 5px #babecc,
+                -5px -5px 10px #ffffff73; */
+   
+
+  /* button:focus{
+    color: #654b3c;
+    /* box-shadow: inset 2px 2px 5px #babecc,
+                inset -5px -5px 10px #ffffff73; */
+
+
+  .button-41 {
+    background-color: initial;
+    background-image: linear-gradient(-180deg, #17c476, #29c07c);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter,-apple-system,system-ui,Roboto,"Helvetica Neue",Arial,sans-serif;
+    height: 44px;
+    line-height: 44px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    pointer-events: auto;
+    position: relative;
+    text-align: center;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 12%;
+    z-index: 9;
+    border: 0;
+  }
+  
+  .button-41:hover {
+    background: #15b36c;
+  }
+  .button-42 {
+    background-color: initial;
+    background-image: linear-gradient(-180deg, #948f0d, #b08408);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter,-apple-system,system-ui,Roboto,"Helvetica Neue",Arial,sans-serif;
+    height: 44px;
+    line-height: 44px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    pointer-events: auto;
+    position: relative;
+    text-align: center;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 12%;
+    z-index: 9;
+    border: 0;
+  }
+  .button-42:hover {
+    background: #604904;
+  }
+  .button-43 {
+    background-color: initial;
+    background-image: linear-gradient(-180deg, #948f0d, #b08408);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0 2px 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Inter,-apple-system,system-ui,Roboto,"Helvetica Neue",Arial,sans-serif;
+    height: 44px;
+    line-height: 44px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    pointer-events: auto;
+    position: relative;
+    text-align: center;
+    touch-action: manipulation;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: 15%;
+    z-index: 9;
+    border: 0;
+  }
+  .button-43:hover {
+    background: #604904;
+  }
+  
+  .maindiv
+{
+    display: grid;
+  place-items: center;
+  text-align: center;
+  background: #dde1e7;
+}
+
+.ph{
+  border-radius: 5px;
+}
+
+/* .button-b{
+  margin: 25px 0 0 0;
+  width: 12%;
+  height: 50px;
+  color: #000;
+  font-size: 18px;
+  font-weight: 600;
+  background: #131313;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border-radius: 25px;
+  /* box-shadow: 2px 2px 5px #babecc,
+              -5px -5px 10px #ffffff73; */
+  
+
+/* .button-b:focus{
+  color: #f8f8f8;
+  /* box-shadow: inset 2px 2px 5px #babecc,
+              inset -5px -5px 10px #ffffff73; */
+
+
+.ph{
+  margin: 25px 0 0 0;
+  display: block;
+  width: 400px;
+  padding: 0 12px; 
+  position: relative;
+  left: 550px;
+  border-radius: 5px;
+  top: 0px;
+  background-color: white;
+  
+}
+/* 
+input,
+input::placeholder {
+  font: 20px/3 sans-serif;
+} */
+/* 
+.placeholder {
+  position: absolute;
+  left: 320px;
+  top: 0px;
+  background-color: white;
+  padding: 0 20px;
+} */
+
+.button-s{
+  background-color: #15b33f;
+    border-radius: 6px;
+}
