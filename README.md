@@ -14,12 +14,12 @@ Admin dashboard for managing properties, users, and rentals
 ## To run the application locally: 
 - git clone file
 
--Run frontend
+- Run frontend
 1.cd client 
 2.npm install 
 3.npm start
 
--Run server
+- Run server
 1.cd server
 2.npm install 
 3.nodemon server
