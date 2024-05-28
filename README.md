@@ -24,4 +24,5 @@ Admin dashboard for managing properties, users, and rentals
 2. npm install 
 3. nodemon server
 
-- Connect to you respective Database
+- Construct the database by refering through the `er-diagram-DBMS.pdf` file in the repo.
+- Connect to you respective database
