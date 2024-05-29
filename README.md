@@ -1,6 +1,6 @@
 # DBMS-project
 ## Renting Properties Online :
-A Web Application that allows users to rent properties online. The application is built using React, MySQL, Express, and Node.js. 
+A Web Application that allows users to rent properties online.  
 It provides a user-friendly interface for searching and browsing available properties, and allows users to submit rental applications 
 and manage their rental agreements.
 
@@ -9,10 +9,15 @@ Property search and browsing
 User registration and login
 Property listing with  various filters (like properties in Hyderabad city) 
 Rental application submission and management 
-Admin dashboard for managing properties, users, and rentals
+Admin dashboard for managing properties, users, and rentals.
+
+## Tech Stack
+- ReactJS
+- Express/Node.js
+- MySQL
 
 ## To run the application locally: 
-- git clone file
+- git clone [file](https://github.com/yash0224/Property-Rental-Agency.git)
 
 - Run frontend
  1. cd client 
