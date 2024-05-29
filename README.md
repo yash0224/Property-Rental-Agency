@@ -30,6 +30,7 @@ Admin dashboard for managing properties, users, and rentals.
   3. nodemon server
 
 - Construct the database by referring through the `er-diagram-DBMS.pdf` file in the repo.
+
 ![image](https://github.com/yash0224/Property-Rental-Agency/assets/86886844/15a4bd6f-28ff-4724-857a-1860c38cd77e)
 
 - Connect to your respective database
