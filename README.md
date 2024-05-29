@@ -20,14 +20,14 @@ Admin dashboard for managing properties, users, and rentals.
 - git clone [file](https://github.com/yash0224/Property-Rental-Agency.git)
 
 - Run frontend
- 1. cd client 
- 2. npm install 
- 3. npm start
+  1. cd client 
+  2. npm install 
+  3. npm start
 
 - Run server
- 1. cd server
- 2. npm install 
- 3. nodemon server
+  1. cd server
+  2. npm install 
+  3. nodemon server
 
 - Construct the database by referring through the `er-diagram-DBMS.pdf` file in the repo.
 ![image](https://github.com/yash0224/Property-Rental-Agency/assets/86886844/15a4bd6f-28ff-4724-857a-1860c38cd77e)
