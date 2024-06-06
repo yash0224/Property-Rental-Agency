@@ -1,8 +1,9 @@
-# DBMS-project
+# DBMS Project
 ## Renting Properties Online :
 A Web Application that allows users to rent properties online.  
 It provides a user-friendly interface for searching and browsing available properties, and allows users to submit rental applications 
 and manage their rental agreements.
+Please refer to the `DBMS Project Specs.pdf` to understand the Problem Statement and Specs of the project. 
 
 ## Features : 
 Property search and browsing
@@ -33,7 +34,7 @@ Admin dashboard for managing properties, users, and rentals.
 
 ![image](https://github.com/yash0224/Property-Rental-Agency/assets/86886844/15a4bd6f-28ff-4724-857a-1860c38cd77e)
 
-- Understand the Relation Schema shown below:
+- Follow the Relation Schema shown below:
 
 ![WhatsApp Image 2024-06-06 at 6 39 33 AM](https://github.com/yash0224/Property-Rental-Agency/assets/86886844/cd2799a0-04e6-4dea-84df-ed3753a1001c)
 
