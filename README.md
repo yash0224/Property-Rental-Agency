@@ -2,7 +2,7 @@
 ## Renting Properties Online :
 A Web Application that allows users to rent properties online.  
 It provides a user-friendly interface for searching and browsing available properties, and allows users to submit rental applications 
-and manage their rental agreements.
+and manage their rental agreements. Using MERN stack. 
 Please refer to the `DBMS Project Specs.pdf` to understand the Problem Statement and Specs of the project. 
 
 ## Features : 
