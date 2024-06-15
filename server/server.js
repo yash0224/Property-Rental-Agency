@@ -85,6 +85,7 @@ app.post('/register', (req, res) => {
 
    
 })
+// JWT Token implementation
 // export const checkAuth = async (req: Request, res: Response) => {
 //     try {
 //       const authHeader = req.headers.authorization;
